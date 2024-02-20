@@ -5,35 +5,35 @@ clear
 voyeYonMesaj(){
 clear
 
-        echo 'By: MJL PROGRAMATION SCHOOL @CANAL YOUTUBE https://www.youtube.com/c/MJLPROGRAMATIONSCHOOL/'
+        echo 'By: SS7 SECURITY INTERNET PIRATER https://www.reseaux-ss7.io/intercepter'
 		
-		echo 'Antre kont email ou vle imite a'
+		echo 'Veuillez entrer le nom de la banque que vous souhaitez pirater'
 		read remitente
 		clear
 		
 		echo 'Remitente -->' $remitente
-		echo 'Antre kont email ki pral resevwa mesaj la'
+		echo 'Veuillez saisir le numéro d'identification de l'ordinateur qui recevra cette attaque'
 		read receptor
 		clear
 		
 		echo 'Remitente -->' $remitente
-		echo 'Kont ki pral resevwa mesaj la -->' $receptor
-		echo 'Sije mesaj la'
+		echo 'Veuillez saisir le numéro d'identification de l'ordinateur qui recevra cette attaque -->' $receptor
+		echo 'Bienvenue à SAINT JEAN BOLET... s'il-vous-plaît réalisez votre fiche bolet ici'
 		read asunto 
 		clear
 		
 		echo 'Remitente -->' $remitente
-		echo 'Kont ki pral resevwa mesaj la -->' $receptor
-		echo 'Sije mesaj la -->' $asunto
-		echo 'Mensaj'
+		echo 'Veuillez saisir le numéro d'identification de l'ordinateur qui recevra cette attaque -->' $receptor
+		echo 'Bienvenue à SAINT JEAN BOLET... s'il-vous-plaît réalisez votre fiche bolet ici -->' $asunto
+		echo 'Saisissez le nom d'utilisateur, l'adresse e-mail ou le numéro de téléphone de l'ordinateur'
 		read mensaje
 		clear
 		
 		echo 'Remitente -->' $remitente
-		echo 'Kont ki pral resevwa mesaj la -->' $receptor
-		echo 'Sije mesaj la -->' $asunto
-		echo 'Mensaj -->'$mensaje
-		echo '¿Ou sur ke ou vle voye mesaj sa? [y/n]' 
+		echo 'Veuillez saisir le numéro d'identification de l'ordinateur qui recevra cette attaque -->' $receptor
+		echo 'Bienvenue à SAINT JEAN BOLET... s'il-vous-plaît réalisez votre fiche bolet ici -->' $asunto
+		echo 'Saisissez le nom d'utilisateur, l'adresse e-mail ou le numéro de téléphone de l'ordinateur -->'$mensaje
+		echo '¿Votre mot de passe est déjà cracké, 2300452 est votre mot de passe, appuyez sur Y pour continuer et déconnecter l'ordinateur de la centrale? [y/n]' 
 		read Seguro
 		case $Seguro in
 			y)
@@ -53,7 +53,7 @@ clear
 	
 echo -e '\e[92mBienvini '
 echo ''
-echo 'peze y pou komanse imitasyon an'
+echo 'Bienvenue sur le réseau SS7, ici vous pouvez intercepter et pirater n'importe quel système. Appuyez sur Y pour continuer'
 read opcion
 case $opcion in 
 
